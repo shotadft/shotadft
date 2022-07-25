@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shotadft0780
-- 📁I’m Create datapack for Minecraft.
+- 📁I’m Create datapack for Minecraft but Maked Software by C++.
 - I like pokèmon and Minecraft.
-- 👍 nice to meet you
+- 👍 nice to meet you.
 
 <!---
 shotadft0780/shotadft0780 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
