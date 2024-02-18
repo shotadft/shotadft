@@ -1,5 +1,5 @@
 ![Shotadft Logo](https://www.shotadft.com/img/banner.webp "Shotadft's Logo")
-- 👋 Hi, I’m Shota_dft
+- 👋 Hi, I’m Shotadft!
 - 📁I’m Maked Software by C++ or C# also More.
 - I like Pokèmon and among them I like Pikachu and Totodile!
 - I'm Homepage it is [Here](https://shotadft.github.io/).
