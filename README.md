@@ -1,8 +1,8 @@
-![Shotadft's Logo](https://shotadft.github.io/img/banner.webp "Shotadft's Logo")
+![Shotadft Logo](https://test.shotadft.com/img/banner.webp)
 - 👋 Hi, I’m Shotadft!
 - 📁I’m Maked Software and More.
 - I like Pokèmon and among them I like Pikachu and Totodile!
-- I'm Homepage it is [Here](https://test.shotadft.com/).
+- I'm Homepage it is [Here](https://www.shotadft.com/).
 - 👍 Nice to meet you.
   <!-- By the way, I am a Japanese of Chinese descent. --->
 
