@@ -1,4 +1,4 @@
-![Shotadft Logo](https://test.shotadft.com/img/banner.webp)
+![Shotadft Logo](https://www.shotadft.com/img/banner.webp)
 - 👋 Hi, I’m Shotadft!
 - 📁I’m Maked Software and More.
 - I like Pokèmon and among them I like Pikachu and Totodile!
