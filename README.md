@@ -1,8 +1,8 @@
-<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="256" alt="Shotadft Logo">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotadft?show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m Shotadft!
-- 📁I’m Maked Software and More.
-- I like Pokèmon and among them I like Pikachu and Totodile! (is private.)
+<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="192" alt="Shotadft Logo"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=shotadft&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja" alt="Shotadft's GitHub stats"></a>
+
+- 👋 やほやほ。Shotadftです。
+
+- 
 - 👍 Nice to meet you.
 
 - If you like, you can visit my [Homepage](https://www.shotadft.com/)!
