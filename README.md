@@ -1,9 +1,10 @@
 # Hi 👋, I'm Shotadft!
 <img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="127" alt="Shotadft Logo"/>
-I am a student at N High School in Japan. I can do a lot of things other than programming.
+I am a student at N High School in Japan. I do programming as a hobby.
+Also like Pokémon, especially Meowscarada and Pikachu!
 
 # Using Languages
-[![My Using Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,html,css,js,ts,nodejs,python,lua,md,sqlite&theme=light)](https://skillicons.dev)
+[![My Using Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,html,css,js,ts,nodejs,python,lua,md&theme=light)](https://skillicons.dev)
 # Using FrameWorks
 [![My Using FrameWorks](https://skillicons.dev/icons?i=dotnet,jquery&theme=dark)](https://skillicons.dev)
 # Using Tools and Devices
