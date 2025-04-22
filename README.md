@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shotadft!
 <img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="127" alt="Shotadft Logo"/>
-I am a student at N High School in Japan. I do programming as a hobby.
+I am a student at N High School in Japan. I do programming as a hobby.<br/>
 Also like Pokémon, especially Meowscarada and Pikachu!
 
 # Using Languages
