@@ -1,6 +1,5 @@
-<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="127" alt="Shotadft Logo"/>
-
 # Hi 👋, I'm Shotadft!
+<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="127" alt="Shotadft Logo"/>
 I am a student at N High School in Japan. I can do a lot of things other than programming.
 
 # Using Languages
@@ -11,7 +10,8 @@ I am a student at N High School in Japan. I can do a lot of things other than pr
 [![My Skills](https://skillicons.dev/icons?i=git,github,windows,apple,vscode,visualstudio,idea,cmake,unreal,blender,cloudflare,twitter,discord&theme=dark)](https://skillicons.dev)
 
 # Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotadft&show_icons=true&include_all_commits=true&ring_color=fcfc00&hide=stars&locale=ja&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![My Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotadft&theme=transparent)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shotadft&show_icons=true&include_all_commits=true&ring_color=fcfc00&hide=stars&locale=ja&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotadft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
