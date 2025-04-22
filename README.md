@@ -13,7 +13,7 @@ Also like Pokémon, especially Meowscarada and Pikachu!
 # Github Stats
 ![My Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotadft&theme=transparent)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shotadft&show_icons=true&include_all_commits=true&ring_color=fcfc00&hide=stars&locale=ja&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotadft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotadft&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 shotadft/shotadft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
