@@ -6,9 +6,9 @@ Also like Pokémon, especially Meowscarada and Pikachu!
 # Using Languages
 [![My Using Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,html,css,js,ts,nodejs,python,lua,md&theme=light)](https://skillicons.dev)
 # Using FrameWorks
-[![My Using FrameWorks](https://skillicons.dev/icons?i=dotnet,jquery&theme=dark)](https://skillicons.dev)
+[![My Using FrameWorks](https://skillicons.dev/icons?i=dotnet,jquery&theme=light)](https://skillicons.dev)
 # Using Tools and Devices
-[![My Skills](https://skillicons.dev/icons?i=git,github,windows,apple,vscode,visualstudio,idea,cmake,unreal,blender,cloudflare,twitter,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,windows,apple,vscode,visualstudio,idea,cmake,unreal,blender,cloudflare,twitter,discord&theme=light)](https://skillicons.dev)
 
 # Github Stats
 ![My Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotadft&theme=transparent)
