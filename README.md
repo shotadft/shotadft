@@ -5,8 +5,8 @@ Also like Pokémon, especially Meowscarada and Pikachu!
 
 # Using Languages
 [![My Using Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,html,css,js,ts,nodejs,python,lua,md&theme=light)](https://skillicons.dev)
-# Using FrameWorks
-[![My Using FrameWorks](https://skillicons.dev/icons?i=dotnet,jquery&theme=light)](https://skillicons.dev)
+# Using Frameworks
+[![My Using Frameworks](https://skillicons.dev/icons?i=dotnet,react&theme=light)](https://skillicons.dev)
 # Using Tools and Devices
 [![My Skills](https://skillicons.dev/icons?i=git,github,windows,apple,vscode,visualstudio,idea,cmake,unreal,blender,cloudflare,twitter,discord&theme=light)](https://skillicons.dev)
 
